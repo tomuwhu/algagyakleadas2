@@ -10,3 +10,5 @@
 ```python
 print("cica")
 ```
+
+$\sqrt[3]{2x-5}=3$
